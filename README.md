@@ -1,6 +1,4 @@
-Here's a **basic Git guide** you can include in your `README.md` file to help contributors or team members understand how to use Git with your repository:
 
----
 
 ## 🧰 Basic Git Guide
 
