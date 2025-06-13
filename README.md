@@ -11,7 +11,7 @@ This repository provides a simple walkthrough of Git — from installation to pu
 3. Open Git Bash to verify:
    ```bash
    git --version
-```
+   ```
 
 ### macOS
 
@@ -76,4 +76,4 @@ node_modules/
 .DS_Store
 *.pyc
 .env
-````
+```
