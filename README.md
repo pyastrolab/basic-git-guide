@@ -1,12 +1,4 @@
-Sure! Here's a basic structure for a Git repository that includes clear documentation on installing Git, initializing a repo, and pushing code to GitHub. You can copy this into your own GitHub repository.
 
----
-
-### 📁 Repository Name: `basic-git-guide`
-
-#### 📄 `README.md`
-
-````markdown
 # Basic Git Guide
 
 This repository provides a simple walkthrough of Git — from installation to pushing your first repository to GitHub.
@@ -19,7 +11,7 @@ This repository provides a simple walkthrough of Git — from installation to pu
 3. Open Git Bash to verify:
    ```bash
    git --version
-````
+```
 
 ### macOS
 
