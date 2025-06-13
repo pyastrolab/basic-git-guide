@@ -3,7 +3,7 @@
 ## 🧰 Basic Git Guide
 
 This guide covers the essential Git commands to get started with this repository.
-Refer: https://basic-git-guide.vercel.app and git_cheat_sheet.pdf
+Refer: https://basic-git-guide.vercel.app and [https://github.com/pyastrolab/basic-git-guide](git_cheat_sheet.pdf)
 
 ### 📦 Clone the Repository
 
